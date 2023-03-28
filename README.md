@@ -1,0 +1,1 @@
+This project is for tracking wheelchair orientations with LM393 sensor with raspberrypi and data send to mobile app using BLE communciation
